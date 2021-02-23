@@ -1,4 +1,4 @@
 # LegendaryRPG
 Unity Game
 
-![Alt text](screenshot.png?raw=true "Game Screenshot")
+![Alt text](screenshot.PNG?raw=true "Game Screenshot")
